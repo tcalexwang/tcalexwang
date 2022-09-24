@@ -17,7 +17,7 @@ Past/Maintaining:
 
 
 About Me:
-- 📚 MS. Computer Science from Northeastern University, Silicon Valley Campus
+- 📚 MS. Computer Science from Northeastern University, San Jose Campus
 - 🔭 BSc. Computer Science from Chinese University of Hong Kong
 - Internship as SDE at [SmartMore](https://en.smartmore.com/)
 - 📫 How to reach me: wangtcalex@gmail.com / tianchang.wang.00@gmail.com
