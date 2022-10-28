@@ -5,6 +5,7 @@
 
 
 -->
+Actively seeking 2023 Software Engineer Internship in the US.
 
 Currently Working on:
 - Go/Kratos/SaaS
