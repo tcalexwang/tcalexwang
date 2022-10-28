@@ -21,7 +21,7 @@ About Me:
 - 📚 MS. Computer Science from Northeastern University, San Jose Campus
 - 🔭 BSc. Computer Science from Chinese University of Hong Kong
 - Internship as SDE at [SmartMore](https://en.smartmore.com/)
-- 📫 How to reach me: wangtcalex@gmail.com / tianchang.wang.00@gmail.com
+- 📫 How to reach me: wangtcalex@gmail.com / alex.tianchang.wang@gmail.com
 - ⚡ Fun fact: Speedcuber
 - 👨‍💻 VS Code for work, Emacs for life.
 
