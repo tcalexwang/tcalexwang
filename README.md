@@ -6,22 +6,10 @@
 
 -->
 About Me:
-- 📚 MS. Computer Science from Northeastern University, San Jose Campus
-- 🔭 BSc. Computer Science from Chinese University of Hong Kong
-- Internship as SDE at [SmartMore](https://en.smartmore.com/)
-- 📫 How to reach me: wangtcalex@gmail.com / alex.tianchang.wang@gmail.com
+- MSCS in Northeastern University, San Jose
+- BSCS in the Chinese University of Hong Kong
+- Ex-SDE at [SmartMore](https://en.smartmore.com/)
 - ⚡ Fun fact: Speedcuber
-- 👨‍💻 VS Code for work, Emacs for life.
-
-
-Past/Maintaining:
-- Web-based Podcast Service: [EgoPod](http://www.egopod.xyz)
-- Distributed Programming (Raft)
-- CUDA Programming
-- Hadoop
-
-
-
 
 **Moments of chaos are moments of opportunities.**
 
