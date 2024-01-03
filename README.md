@@ -12,8 +12,3 @@ About Me:
 - ⚡ Fun fact: Speedcuber
 
 **Moments of chaos are moments of opportunities.**
-
-
-<a href="#">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=chang2000&show_icons=true">
-</a>
