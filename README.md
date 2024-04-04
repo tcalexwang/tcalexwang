@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Where am I: Sunny2vale, California
+Where am I: Sunnyvale, California
 
 What am I doing now:
 - Real-world Application of LLMs
