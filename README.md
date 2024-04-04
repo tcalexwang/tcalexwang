@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I also go by Alex, Alexander, and T.C.
+
 Where am I: Sunnyvale, California
 
 What am I doing now:
