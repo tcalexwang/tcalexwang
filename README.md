@@ -5,7 +5,7 @@ I also go by Alex, Alexander, and T.C.
 Where am I: Sunnyvale, California
 
 What am I doing now:
-- Real-world Application of LLMs
+- Real-world Application of LLMs and Stable Diffusions
 - LLM Fine tune & RAG for special requirements
 - Next.js
 - Golang for web development
