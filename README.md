@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I also go by Alex, Alexander, and T.C.
+I also go by Alex
 
 Where am I: Sunnyvale, California
 
