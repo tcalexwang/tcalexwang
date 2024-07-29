@@ -10,6 +10,9 @@ What am I doing now:
 - Next.js
 - Golang for web development
 
+I've worked on:
+- [Movie Blind Box](https://movie-blindbox.us/)
+- [Yeah! A Dress-Up Game](https://yeah-dressup.vercel.app)
 About Me:
 - MSCS in Northeastern University, San Jose
 - BSCS in the Chinese University of Hong Kong
