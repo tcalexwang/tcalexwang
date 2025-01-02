@@ -20,7 +20,4 @@ About Me:
 - Ex-SDE at [SmartMore](https://en.smartmore.com/)
 - ⚡ Fun fact: a happy husband, boxer🥊, Speedcuber
 
-**Moments of chaos are moments of opportunities.** ONLY IF YOU COULD GRAB THAT.
-
-
-
+**Moments of chaos are moments of opportunities.**
