@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I also go by Alex
+I go by Alex
 
 Where am I: Sunnyvale, California
 
-What am I doing now:
-- Real-world Application of LLMs and Stable Diffusions
+I'm cooking in Alaria Studio right now.
+- Real-world Application of LLMs
 - LLM Fine tune & RAG for special requirements
 - Next.js
-- Golang for web development
+- Golang for realiable api services
 
 I've worked on:
 - [Movie Blind Box](https://movie-blindbox.us/)
